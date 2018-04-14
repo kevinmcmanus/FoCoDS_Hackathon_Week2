@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# data files (but not the population data files (they're small)
+US_Shapefile/
